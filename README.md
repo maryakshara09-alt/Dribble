@@ -3,8 +3,6 @@
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
-
-
 ## DESIGN STEPS:
 
 ### Step 1:
@@ -325,7 +323,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot (93).png>)
+![alt text](<Screenshot 2025-10-21 194307.png>)
 
 
 ## RESULT:
